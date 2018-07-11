@@ -1,0 +1,23 @@
+{
+  "name": "npm-pretty-package",
+  "version": "0.0.1",
+  "description": "Formatter and colored package.json info.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readme",
+    "parser",
+    "cli"
+  ],
+  "author": "nombrekeff",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.1.3",
+    "cli-color": "^1.2.0",
+    "commander": "^2.15.1",
+    "loggin-js": "^0.2.5",
+    "npm-package-info": "0.0.3"
+  }
+}
