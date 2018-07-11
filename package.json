@@ -7,8 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "readme",
-    "parser",
+    "npm",
+    "package.json",
+    "package-json",
+    "pretty",
+    "formatted",
+    "format",
+    "color",
+    "badges",
     "cli"
   ],
   "author": "nombrekeff",
