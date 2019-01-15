@@ -39,7 +39,7 @@
     "cfonts": "^2.1.3",
     "cli-color": "^1.2.0",
     "commander": "^2.15.1",
-    "loggin-js": "^0.2.5",
-    "npm-package-info": "0.0.3"
+    "loggin-js": "^0.3.1",
+    "npm-package-info": "0.0.5"
   }
 }
