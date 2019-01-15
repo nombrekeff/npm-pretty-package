@@ -8,7 +8,7 @@
 [![David](https://img.shields.io/david/nombrekeff/npm-pretty-package.svg)](https://david-dm.org/nombrekeff/npm-pretty-package?view=tree)   -->
 
 <!-- [![NPM](https://nodei.co/npm/npm-pretty-package.png)](https://nodei.co/npm/npm-pretty-package/) -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/keff39006469.svg?style=social&label=Follow)](https://twitter.com/intent/user?screen_name=keff39006469)   -->
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/keff39006469.svg?style=social&label=Follow)](https://twitter.com/intent/user?screen_name=keff39006469) [![Greenkeeper badge](https://badges.greenkeeper.io/nombrekeff/npm-pretty-package.svg)](https://greenkeeper.io/)   -->
 
 
 Show npm package info in a pretty way. For locally installed packages and for registry ones.
